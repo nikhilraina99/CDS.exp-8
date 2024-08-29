@@ -19,10 +19,10 @@ Create a matrix by taking user inputs and perform various operations on it.
 - Perform matrix multiplication, making sure the number of columns in the first matrix matches the number of rows in the second matrix.
 
 3. **Diagonal Elements**
-   - Calculate and return the sum of the diagonal elements of a matrix.
+- Calculate and return the sum of the diagonal elements of a matrix.
 
 4. **Matrix Transpose**
-   - Compute and return the transpose of a matrix, which involves swapping its rows and columns.
+- Compute and return the transpose of a matrix, which involves swapping its rows and columns.
 
 
 ## Theory
@@ -280,7 +280,7 @@ for (i=0 ; i<c ; i++)
 
 ## Conclusion
 
-In this project, we:
+In this experiment, we:
 - Took user input to create matrices.
 - Implemented matrix addition and multiplication using loops.
 - Computed the sum of the diagonal elements of a matrix.
