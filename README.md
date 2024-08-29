@@ -278,6 +278,13 @@ for (i=0 ; i<c ; i++)
 ![Screenshot 2024-08-29 150230](https://github.com/user-attachments/assets/2391f51c-4247-455b-82e9-f00b4d16c705)
 
 
+## Conclusion
+
+In this project, we:
+- Took user input to create matrices.
+- Implemented matrix addition and multiplication using loops.
+- Computed the sum of the diagonal elements of a matrix.
+- Calculated the transpose of a matrix.
 
 
 
