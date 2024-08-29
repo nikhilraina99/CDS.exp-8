@@ -261,6 +261,21 @@ for (i=0 ; i<c ; i++)
 
 ## Output
 
+1.
+
+![Screenshot 2024-08-29 131803](https://github.com/user-attachments/assets/d5d4f484-297c-4a97-ada7-0c5fbfdeb388)
+
+2.
+
+![Screenshot 2024-08-29 132203](https://github.com/user-attachments/assets/8b437ea3-a122-42ca-aa53-7858063a98b6)
+
+3. 
+
+![Screenshot 2024-08-29 145952](https://github.com/user-attachments/assets/dec3ddfe-c8bb-41bd-a4a7-12271c98b676)
+
+4.
+
+![Screenshot 2024-08-29 150230](https://github.com/user-attachments/assets/2391f51c-4247-455b-82e9-f00b4d16c705)
 
 
 
